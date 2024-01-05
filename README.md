@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-<a href=><img src="images/guestbook.svg"></a> 
+<a href="https://github.com/cprite/cprite/issues/1"><img src="images/guestbook.svg"></a> 
 </div>
 
 <!-- Guestbook -->
