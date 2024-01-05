@@ -14,8 +14,6 @@
 </div>
 
 <!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
 <!-- /Guestbook -->
 
 <!-- Footer -->
