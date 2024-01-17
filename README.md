@@ -20,7 +20,8 @@
 
 <div align="center">
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/cprite/cprite/master/images/marquee.svg" />
+<!-- <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/cprite/cprite/master/images/marquee.svg" /> -->
+<iframe src="https://giphy.com/embed/Vf3ZKdillTMOOaOho0" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/Giflytics-transparent-Vf3ZKdillTMOOaOho0">via GIPHY</a></p>
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/cpriteTest/count.svg)
