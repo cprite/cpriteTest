@@ -21,7 +21,7 @@
 <div align="center">
 
 <!-- <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/cprite/cprite/master/images/marquee.svg" /> -->
-![Dancing PC LOL](https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif)
+<img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="250" height="250" alt="Funny GIF">
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/cpriteTest/count.svg)
